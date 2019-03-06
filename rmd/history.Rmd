@@ -1,0 +1,3 @@
+# History
+
+The term "k-means" was first used by James MacQueen in 1967[@Mac:1967], though the idea goes back to Hugo Steinhaus in 1957[@Ste:1956]. The standard algorithm was first proposed by Stuart Lloyd in 1957 as a technique for pulse-code modulation, though it wasn't published outside of Bell Labs until 1982[@Llo:1982]. In 1965, E. W. Forgy published essentially the same method, which is why it is sometimes referred to as Lloyd-Forgy[@For:1965].

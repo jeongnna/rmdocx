@@ -1,0 +1,6 @@
+# Algorithms
+
+![](../img/kmeans1.png)
+![](../img/kmeans2.png)
+![](../img/kmeans3.png)
+![](../img/kmeans4.png)
